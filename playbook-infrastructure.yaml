@@ -1,0 +1,4 @@
+---
+- name: Manage infrastructure
+  hosts: all
+  connection: local
